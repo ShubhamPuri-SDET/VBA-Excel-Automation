@@ -1,0 +1,15 @@
+scenario 3 data --> the data present on site but not documented.
+
+imgaltnotdocumented tab -->
+
+1) img is not present alt tag not present -->    (the data present on site but not documented.)
+
+2) img is present  but alt tag not present  --> need to double check with the Alt mismatch sheet
+whether the same data is there or not
+
+add in the new tab or add into the same tab (alt mismatch) status --> Alt tag mismatch 
+
+
+if matches the data can add that into new sheet and can hide 
+
+we can ignore column A website ---> document the unique URL and Data.
